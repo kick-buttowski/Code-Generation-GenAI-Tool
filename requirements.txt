@@ -1,0 +1,14 @@
+langchain==0.3.11
+langchain-anthropic==0.3.0
+langchain-community==0.3.11
+langchain-core==0.3.24
+langchain-experimental==0.3.3
+langchain-openai==0.2.12
+langgraph==0.2.59
+python-dotenv==1.0.1
+streamlit==1.39.0
+streamlit-ace==0.1.1
+typing_extensions==4.12.2
+langsmith
+python-magic
+openai
